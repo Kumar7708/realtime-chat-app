@@ -1,5 +1,7 @@
 # Realtime Chat App with Next.js
 
+[Live Link](https://realtime-chat-app-zeta-one.vercel.app/)
+
 ## Project Overview
 
 Realtime Chat App with Next.js is a web application that facilitates instant messaging between users. It features Google authentication for secure logins, friend invitations via email, and real-time chatting functionality. The application uses Redis as the database to store data.
